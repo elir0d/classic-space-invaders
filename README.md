@@ -13,7 +13,7 @@
 <!-- ![Netlify Status](https://api.netlify.com/api/v1/badges/80034408-1313-4786-acbd-fcc665f1c608/deploy-status?logo=netlify) -->
 
 [![Status](https://img.shields.io/badge/repo_status-WIP-orange?labelolor=black)](https://media.giphy.com/media/61XS37iBats8J3QLwF/giphy.gif)
-[![GitHub issues](https://img.shields.io/github/issues/vanpyre/classic-pong?color=red&label=issues&logo=github&logoColor=red)](https://github.com/vanpyre/classic-space-invaders/issues)
+[![GitHub issues](https://github.com/vanpyre/classic-space-invaders/issues)](https://github.com/vanpyre/classic-space-invaders/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/vanpyre/classic-pong?color=flat&label=pull%20requests&logo=github&logoColor=green)](https://github.com/vanpyre/classic-space-invaders/pulls)
 [![GitHub license](https://img.shields.io/github/license/vanpyre/classic-pong?color=flat&logo=gnu)](https://github.com/vanpyre/classic-space-invaders/blob/main/LICENSE.MD)
 ![Travis (.org)](https://img.shields.io/travis/vanpyre/classic-pong?logo=travis&color=white)
