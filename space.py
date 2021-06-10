@@ -8,6 +8,7 @@ import turtle
 #----------Modules-----------------#
 
 import modules.space_ship as space_ship
+import modules.ship_control as ship_control
 
 #----------window setup------------#
 
@@ -33,11 +34,13 @@ for side in range(4):
 
 border.hideturtle()
 
-#----------window changes----------#
+#----------window-changes----------#
 
+window.listen()
+window.onkeypress(ship_control.move_left, "a")
+window.onkeypress(ship_control.move_right, "d")
 
-
-#----------Maingame loop-----------#
+#----------Maingame-loop-----------#
 def main():
     while True:
         window.update()
