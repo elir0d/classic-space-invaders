@@ -1,11 +1,11 @@
 <p align="center">
    <a href="" rel="noopener">
    <img width=400px height=300px src=
-      "https://raw.githubusercontent.com/vanpyre/classic-pong/main/image/logo.jpg"
+      "https://raw.githubusercontent.com/vanpyre/classic-space-invaders/standard/images/space-logo.png"
        alt="Project logo"></a>
 </p>
 
-<h3 align="center">Classic Pong</h3>
+<h3 align="center">Classic Space Invaders</h3>
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-<p align="center"> This is a simple python-encoded pong game.
+<p align="center"> This is a simple python-encoded Space Invaders game.
     <br> 
 </p>
 
@@ -44,7 +44,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This is a simple python-encoded pong game. It is a practical project based on a tutorial by Christian Thompson. I changed some structures and made some modifications using modules and functions.
+This is a simple python-encoded Space Invaders game. It is a practical project based on a tutorial by Christian Thompson. I changed some structures and made some modifications using modules and functions.
 
 Perhaps this project will be improved over time
 
