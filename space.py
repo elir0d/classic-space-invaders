@@ -7,7 +7,7 @@ import turtle
 
 #----------Modules-----------------#
 
-import modules.space_ship as ship
+import modules.space_ship as space_ship
 
 #----------window setup------------#
 
@@ -41,7 +41,7 @@ border.hideturtle()
 def main():
     while True:
         window.update()
-        ship
+        space_ship
         
 if __name__ == "__main__":
     main()
