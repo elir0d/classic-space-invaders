@@ -26,9 +26,7 @@
 
 ---
 
-<p align="center"> This is a simple python-encoded Space Invaders game.
-    <br> 
-</p>
+<p align="center"> This is a simple python-encoded Space Invaders game.</p>
 
 ## 📝 Table of Contents
 
