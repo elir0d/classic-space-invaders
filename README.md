@@ -33,12 +33,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Authors](#authors)
-<!-- - [Deployment](#deployment) -->
-<!-- - [Usage](#usage) -->
-<!-- - [Built Using](#built_using) -->
-<!-- - [TODO](../TODO.md) -->
-<!-- - [Contributing](../CONTRIBUTING.md) -->
-<!-- - [Acknowledgments](#acknowledgement) -->
+
 
 ## 🧐 About <a name = "about"></a>
 
