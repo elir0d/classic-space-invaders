@@ -16,7 +16,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/vanpyre/classic-space-invaders?color=red&label=issues&logo=github&logoColor=red)](https://github.com/vanpyre/classic-space-invaders/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/vanpyre/classic-space-invaders?color=flat&label=pull%20requests&logo=github&logoColor=green)](https://github.com/vanpyre/classic-space-invaders/pulls)
 [![GitHub license](https://img.shields.io/github/license/vanpyre/classic-space-invaders?color=flat&logo=gnu)](https://github.com/vanpyre/classic-space-invaders/blob/main/LICENSE.MD)
-![Travis (.org)](https://img.shields.io/travis/vanpyre/classic-space-invaders?logo=travis&color=white)
 [![Open Source](https://badgen.net/badge/Open%20Source%20/Yes%21/green?icon=https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg)](https://github.com/OpenSourceOrg)
 [![vscode](https://img.shields.io/badge/FOR_CODING-gray?style=flat&labelColor=gray&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
 
