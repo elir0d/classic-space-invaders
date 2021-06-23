@@ -35,8 +35,6 @@ border.hideturtle()
 
 #----------window changes----------#
 
-
-
 #----------Maingame loop-----------#
 def main():
     while True:
