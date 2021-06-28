@@ -9,7 +9,6 @@ ship.shape("triangle")
 ship.penup()
 ship.setposition(0, -250)
 ship.setheading(90)
-
-speed = 15
+shipspeed = 15
 
 #----------Space-Ship----------#
