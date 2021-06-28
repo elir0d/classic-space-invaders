@@ -42,7 +42,7 @@ window.listen()
 window.onkeypress(ship_control.move_left, "a")
 window.onkeypress(ship_control.move_right, "d")
 
-#----------Maingame-loop-----------#
+#----------Maingame loop-----------#
 def main():
     while True:
         window.update()
