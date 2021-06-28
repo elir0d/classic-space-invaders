@@ -1,4 +1,5 @@
 import turtle
+import modules.space_ship as ss
 
 #-----bullet-element-----#
 
@@ -10,6 +11,8 @@ bullet.speed(0)
 bullet.setheading(90)
 bullet.shapesize(0.3, 0.3)
 bullet.hideturtle()
-bulletspeed = 20
+bulletspeed = 1
+bulletstate = "ready"
 
-#-----bullet-element-----#
+#-----move--bullet -----#
+

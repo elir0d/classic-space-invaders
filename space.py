@@ -8,6 +8,7 @@ import turtle
 #----------Modules-----------------#
 
 import modules.ammo         as ammo
+import modules.weapon       as weapon
 import modules.invaders     as invaders
 import modules.space_ship   as space_ship
 import modules.move_enemy   as move_enemy
@@ -39,14 +40,27 @@ border.hideturtle()
 #----------window-changes----------#
 
 window.listen()
+window.onkeypress(weapon.fire_bullet, "space")
+# window.onkeypress(ammo.fire_bullet, "space")
 window.onkeypress(ship_control.move_left, "a")
 window.onkeypress(ship_control.move_right, "d")
 
 #----------Maingame loop-----------#
 def main():
     while True:
+        # - Handle with all window refreshes
         window.update()
-        space_ship, invaders, ammo
+
+        # - Call All Modules
+        space_ship, invaders, ammo,
+        weapon, move_enemy, ship_control
+
+        # - Handle with weapon and bullet
+        weapon.move_bullet()
+        weapon.move_bullet()
+        weapon.bullet_colission_check()
+
+        # - Handle with invaders
         move_enemy.move_invader()
 
 if __name__ == "__main__":
